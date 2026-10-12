@@ -1,0 +1,5 @@
+frost.met_ID
+
+client_ID: a47f0003-8842-458d-b3cb-f14545ecfdb8
+
+client_secret: 2679c26a-a5a0-4a5f-a835-5fc08b77a5b3
